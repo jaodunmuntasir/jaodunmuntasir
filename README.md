@@ -1,6 +1,6 @@
 # Hi there, I'm Jaodun Muntasir 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate full-stack developer who loves exploring new technologies and building innovative solutions. Here's a bit more about me:
 
 ---
 
