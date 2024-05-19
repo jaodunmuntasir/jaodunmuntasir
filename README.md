@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 🚀 About Me
 
 - 💬 Ask me about: Full-Stack Development, JavaScript, PHP, Python, Java and more!
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+- 📫 How to reach me: [Email Me](mailto:mjmm340@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love bagpacking and exploring new places.
 
@@ -47,12 +47,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ---
 
-## 📈 GitHub Stats
-
-![Jaodun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaodunmuntasir&show_icons=true&theme=radical)
-
----
-
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaodunmuntasir&layout=compact&theme=radical)
@@ -61,12 +55,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaodun-muntasir/)
 
 ---
 
 **Thanks for visiting!** If you like my work, consider giving a ⭐️ to my repositories or buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-profile)
