@@ -1,30 +1,48 @@
 # Hi there, I'm Jaodun Muntasir 👋
 
-![Profile Banner](https://your-banner-url.com) <!-- Optional: Add a link to a custom banner image -->
-
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. Here's a bit more about me:
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your Current Project](https://github.com/jaodunmuntasir/your-current-project)
-- 🌱 I’m currently learning: [Technology or Skill](https://www.your-learning-resource.com)
-- 👯 I’m looking to collaborate on: [Open Source Projects](https://github.com/jaodunmuntasir?tab=repositories)
-- 💬 Ask me about: Full-Stack Development, JavaScript, Python, and more!
+- 💬 Ask me about: Full-Stack Development, JavaScript, PHP, Python, Java and more!
 - 📫 How to reach me: [Email Me](mailto:your-email@example.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring new places.
+- ⚡ Fun fact: I love bagpacking and exploring new places.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-008080?style=for-the-badge&logo=api&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java Swing](https://img.shields.io/badge/-Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![AWS LightSail](https://img.shields.io/badge/-AWS_LightSail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -46,26 +64,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#123](https://github.com/jaodunmuntasir/your-repo/issues/123) in [jaodunmuntasir/your-repo](https://github.com/jaodunmuntasir/your-repo)
-2. 🎉 Merged PR [#456](https://github.com/jaodunmuntasir/your-repo/pull/456) in [jaodunmuntasir/your-repo](https://github.com/jaodunmuntasir/your-repo)
-3. 💪 Opened PR [#789](https://github.com/jaodunmuntasir/your-repo/pull/789) in [jaodunmuntasir/your-repo](https://github.com/jaodunmuntasir/your-repo)
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://your-blog.com/blog-post-1)
-- [Title of Blog Post 2](https://your-blog.com/blog-post-2)
-- [Title of Blog Post 3](https://your-blog.com/blog-post-3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
