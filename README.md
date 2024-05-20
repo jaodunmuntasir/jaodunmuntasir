@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves ex
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/-Java_Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-DD0031?style=for-the-badge&logo=npm&logoColor=white)
 
 ![AWS LightSail](https://img.shields.io/badge/-AWS_LightSail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
