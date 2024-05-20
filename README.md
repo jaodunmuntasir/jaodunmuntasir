@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves ex
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman Agent](https://img.shields.io/badge/-Postman-F7DF1E?style=for-the-badge&logo=github&logoColor=white)
+![Postman Agent](https://img.shields.io/badge/-Postman-F7DF1E?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
