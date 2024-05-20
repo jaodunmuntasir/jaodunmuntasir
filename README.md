@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves ex
 
 ![Git](https://img.shields.io/badge/-Git-DD0031?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-DD0031?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-339933?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman Agent](https://img.shields.io/badge/-Postman-F7DF1E?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
